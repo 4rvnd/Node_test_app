@@ -1,0 +1,23 @@
+{
+  "name": "node_test_app",
+  "version": "1.0.0",
+  "description": "Backend for my Blog app using epress and mongoDb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravind-99/Node_test_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravind-99/Node_test_app/issues"
+  },
+  "homepage": "https://github.com/aravind-99/Node_test_app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
